@@ -34,3 +34,16 @@ Data cleaning, Excel formulas, PivotTables, dashboard development, data visualiz
 Project Files
 
 The Excel workbook and dashboard preview are included in this repository.
+## Dashboard Preview
+
+![Sales Performance Dashboard](Dashboard_Screenshot.png)
+
+## Insights & Recommendations Preview
+
+![Sales Insights and Recommendations](Insights_Recommendations.png)
+
+## Project Files
+
+- [Excel Dashboard Workbook](Sales_Performance_Dashboard_Portfolio.xlsx)
+- [Dashboard Screenshot](Dashboard_Screenshot.png)
+- [Insights & Recommendations Screenshot](Insights_Recommendations.png)
