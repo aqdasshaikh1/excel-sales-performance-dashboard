@@ -4,6 +4,9 @@
 This project presents an interactive Sales Performance Dashboard built in Microsoft Excel to analyze sales transactions and generate meaningful business insights.
 
 The dashboard helps monitor key performance indicators (KPIs), compare sales across products, categories, regions, and salespersons, and analyze monthly sales trends.
+## Dashboard Preview
+
+![Sales Performance Dashboard](Sales_Dashboard.png)
 
 ## Dashboard Features
 - Interactive KPI tracking
