@@ -62,7 +62,7 @@ The dashboard helps monitor key performance indicators (KPIs), compare sales acr
 
 ## Project Files
 
-- `Excel_Sales_Performance_Dashboard_Final.xlsx.xlsx` — Final Excel dashboard workbook.
+Sales_Performance_Dashboard.xlsx
 
 ## Author
 
